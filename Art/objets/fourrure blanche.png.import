@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fourrure blanche sans poiles.png-f85351c72513796c548c0b615d3aa651.stex"
+path="res://.import/fourrure blanche.png-ac1c4ad96c590b785c41dff18e817ccb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/fourrure blanche sans poiles.png"
-dest_files=[ "res://.import/fourrure blanche sans poiles.png-f85351c72513796c548c0b615d3aa651.stex" ]
+source_file="res://Art/objets/fourrure blanche.png"
+dest_files=[ "res://.import/fourrure blanche.png-ac1c4ad96c590b785c41dff18e817ccb.stex" ]
 
 [params]
 
